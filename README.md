@@ -1,10 +1,12 @@
 **The Black Friday Concept**
+
 O presente trabalho tem por objeto a avaliação do comportamento dos consumidores no Black Friday, através da análise de um dataset de informação relativa a compras efetuadas durante esse período especial de descontos no comércio a retalho. Importa começar por explicar, sucintamente, em que consiste a Black Friday. Trata-se de um conceito de vendas que nasceu nos Estados Unidos da América criado para incentivar as compras de Natal. Acontece sempre na última sexta-feira de novembro, depois do Dia de Acão de Graças (Thanksgiving, no original). O Thanksgiving é o feriado nacional mais celebrado nos EUA e é um dia tradicionalmente passado com a família. O Dia de Ação de Graças é sempre na última quinta-feira de novembro e as deslocações internas dos americanos para visitar a família afastavam-nos das lojas e, por essa razão, 
 era um período de vendas muito fraco no comércio a retalho. Graças ao Black Friday, um fim de semana que era tradicionalmente muito fraco para os retalhistas transformou-se num período de compras muito intenso, por força dos descontos muito generosos oferecidos para atrair os clientes. Este conceito resultou de tal forma que a ideia se espalhou um pouco por todo o mundo. Se antes da sua criação o dia era considerado “negro” pela fraca faturação, agora pode continuar a ser considerado “sombrio” mas para os clientes. Todos querem aproveitar as promoções e descontos o que leva a muita euforia que culmina na formação de longas filas, atropelamentos, e até comportamentos pouco cívicos dos consumidores, para além das fraudes associadas aos descontos oferecidos. Perante esta realidade, o Black Friday passou a assumir um papel relevante no 
 planeamento de vendas das empresas de grande consumo, as quais passaram a investir fortemente em campanhas de marketing neste período e a usar cada vez mais informação analítica para compreender os comportamentos dos clientes nos processos de compras, face aos estímulos criados. Neste contexto, a exploração de informação em grandes volumes sobre as vendas e sobre os clientes poderá dar importantes vantagens competitivas para as empresas que atuam nestes setores, criando, assim, um campo para a utilização da ciência de dados de extrema relevância. 
 
 
 **Task to Solve**
+
 Considerando a importância da Black Friday para as vendas das empresas no período pré-Natal, o objetivo do presente trabalho passa por poder analisar o conjunto de informação disponível no dataset para compreender o comportamento e as preferências dos consumidores neste período especial de compras, com estruturação da informação por alguns atributos relevantes desses consumidores e com segmentação pelos produtos vendidos. 
 Este estudo poderá ser importante para definir os níveis de stocks das empresas, a formação dos preços, o planeamento da força de vendas, entre outras dimensões relevantes dos processos de venda, para além de permitir ajustar a oferta de produtos às reais preferências dos clientes. 
 
@@ -22,4 +24,5 @@ Neste relatório, foram investigadas diferentes preferências dos clientes em di
 
 
 **Full Report**
+
 Please access the file '*Trabalho_Grupo_4_CDA1_IMD_Relatório_Final.pdf*' for a detailed explanation of the developed work and obtained results.
